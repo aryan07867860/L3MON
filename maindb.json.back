@@ -1,7 +1,7 @@
 {
   "admin": {
     "username": "admin",
-    "password": "admin",
+    "password": "admin"
     "loginToken": "",
     "logs": [],
     "ipLog": []
