@@ -1,7 +1,7 @@
 {
   "admin": {
-    "username": "aryan",
-    "password": "Wjpvs2watn",
+    "username": "admin",
+    "password": "admin",
     "loginToken": "",
     "logs": [],
     "ipLog": []
